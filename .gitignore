@@ -1,0 +1,6 @@
+./root_password.txt
+./logs
+.env
+./gitlab-runner
+./data
+./config
